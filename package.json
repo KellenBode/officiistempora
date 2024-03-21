@@ -1,0 +1,34 @@
+{
+  "name": "officiistempora",
+  "version": "1.0.0",
+  "description": "Ethereum controller for safle vault.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KellenBode/officiistempora.git"
+  },
+  "author": "HillardHoeger",
+  "license": "MIT",
+  "keywords": [
+    "facilis",
+    "vault",
+    "web3",
+    "eth"
+  ],
+  "homepage": "https://github.com/KellenBode/officiistempora.git",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.0",
+    "@ethereumjs/tx": "^3.4.0",
+    "bip39": "^3.0.4",
+    "browser-passworder": "^2.0.3",
+    "eth-hd-keyring": "^3.6.0",
+    "eth-sig-util": "^3.0.1",
+    "eth-simple-keyring": "^4.2.0",
+    "ethereumjs-util": "^7.1.0",
+    "loglevel": "^1.7.1",
+    "obs-store": "^4.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/KellenBode/officiistempora.git/issues"
+  }
+}
